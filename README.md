@@ -12,3 +12,6 @@ A wonderful Chrome Extension that uses revolutionary technology to change every 
 
 ### Folder Notice
 Because this extension is being directly loaded from a folder on your computer, if that folder is moved/deleted, the extension will break. If the folder must be moved/deleted, you can uninstall and then reinstall the extension.
+
+## Font
+You need the Comic Sans MS font installed to use this. It usually comes with Windows and Mac.
