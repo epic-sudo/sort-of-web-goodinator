@@ -1,5 +1,5 @@
 # (Sort Of) Web Goodinator
-A wonderful Chrome Extension that uses revolutionary technology to change every text on the internet to the (sort of) best font.
+A wonderful Chrome Extension that uses revolutionary technology to change every text on the internet to the (sort of) best font. This is only for if you can't use the regular version.
 
 ## Installation
 - [Download and unzip the source code.](https://github.com/epic-sudo/sort-of-web-goodinator/archive/master.zip) [\[?\]](#folder-notice)
